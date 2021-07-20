@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+/*ou*/
+
+/* @import 'https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap'; */
+
+/* Puxar fontes por import nao é recomendado pela questão de perda de tempo.
+   Na tag link é mais rápido para importar o necessário */
+
+h1{
+    color: aquamarine;
+    font-family: 'Sigmar One', cursive;
+}
+
+strong {
+    color: brown;
+}
